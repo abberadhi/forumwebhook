@@ -11,7 +11,7 @@ It is constantly connected to the IRC server, checking for new posts. Upon detec
 ## Dependencies
 ```
 "irc": "^0.5.2",
-"xmlhttprequest": "^1.8.0"
+"node-fetch": "^2.6.0",
 ```
 
 ## Contributing
